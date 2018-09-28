@@ -12,10 +12,10 @@
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background-attachment: fixed;
   background-position: center center;
+  background-attachment: fixed;
   background-image: url('../img/ktm.jpg');
-  height: 100vh;
+  
 }
 .first .secondary-overlay {
   background: rgba(20, 20, 20, 0.5);
